@@ -191,4 +191,4 @@ Karthikeyan S
 GitHub: S-Karthikeyan-17  
 
 ## GitHub Links
-- https://github.com/S-Karthikeyan-17/rag-pdf-chatbot](https://github.com/S-Karthikeyan-17/rag-pdf-chat
+- https://github.com/S-Karthikeyan-17/rag-pdf-chat
